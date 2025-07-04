@@ -84,17 +84,6 @@
 
 ---
 
-### ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/youssefmahrous0">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
 </div>
-
