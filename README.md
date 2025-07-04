@@ -17,7 +17,7 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an Cyber Security & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
 - 🌱 I’m diving deeper into _[Cyber Security](https://www.coursera.org/learn/introduction-to-cybersecurity-essentials)_ and _[Certified Ethical Hacking (v12)](https://www.coursera.org/specializations/certified-ethical-hacking-v12-cehv12-exam-prep-course)_
 
