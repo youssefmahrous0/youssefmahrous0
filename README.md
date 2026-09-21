@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Youssef Mahrous</h1>
-<h3 align="center">🛡️ SOC Analyst | 🔐 Cybersecurity Enthusiast</h3>
+<h3 align="center"> 🛡️ SOC Analyst Tier 1 | 🔐 Cybersecurity | 🚨 Threat Detection </h3>
 
 <p align="center">
   <a href="https://github.com/youssefmahrous0">
