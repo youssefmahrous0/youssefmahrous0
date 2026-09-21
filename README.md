@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hi, I'm Youssef Mahrous</h1>
-<h3 align="center">💻 Frontend Developer | 🔐 Cybersecurity Enthusiast</h3>
+<h3 align="center">🛡️ SOC Analyst | 🔐 Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/youssefmahrous0">
@@ -15,51 +15,57 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm a 4th-year Computer Science student at **Shorouk University**.
-- 🌐 Passionate about both **Frontend Web Development** & **Cybersecurity**.
-- 🛡️ Aspiring **Penetration Tester** with a strong foundation in networking and Linux.
-- 🔭 Currently working on: [**Mealify**](https://github.com/youssefmahrous0/Mealify)
-- 🌱 Currently learning: `PHP`, `MySQL`, `Node.js`, `React.js`, `TypeScript`
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `Linux`, `Cybersecurity`, `Networks`
-- 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/youssef-mahrous-644b78266)
+* 🎓 Computer Science graduate with a focus on **Cybersecurity & Security Operations**.
+* 🛡️ Interested in **SOC Operations, Threat Detection, Incident Response & Digital Forensics**.
+* 🔎 Hands-on experience with **SIEM monitoring, alert triage, log analysis and threat investigation**.
+* 🧪 Built a **SOC Home Lab** using Wazuh, Sysmon, Windows 11, Ubuntu and Kali Linux.
+* 📚 Continuously developing my skills through hands-on cybersecurity labs and training.
 
 ---
 
-### 🌐 Connect with Me
+### 🧪 Featured Project
+
+#### 🛡️ SOC Home Lab – Detection Engineering & Threat Analysis
+
+* Built a 3-machine SOC environment using **Kali Linux, Windows 11 and Ubuntu/Wazuh**.
+* Configured **Wazuh Agent & Sysmon** for centralized Windows event monitoring.
+* Simulated **port scanning and SMB brute-force attacks** to test detection capabilities.
+* Investigated alerts and mapped activities to **MITRE ATT&CK** techniques.
+* Practiced the complete SOC workflow: **Alert Triage → Investigation → Analysis → Incident Documentation**.
+
+---
+
+### 🛠️ Security Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="40" height="40" />
+</p>
+
+**SIEM & Monitoring**
+
+`Wazuh` `Splunk` `ELK Stack` `Sysmon`
+
+**Network & Security**
+
+`Wireshark` `Zeek` `TCPDump` `Nmap` `Metasploit`
+
+**SOC & Threat Detection**
+
+`MITRE ATT&CK` `Threat Intelligence` `IOC Analysis` `Threat Hunting`
+
+**Digital Forensics**
+
+`Windows Event Logs` `Endpoint Investigation` `Artifact Analysis` `Basic DFIR`
+
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/youssef-mahrous-644b78266" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="30" style="margin-right: 10px;" />
-    LinkedIn
+  <a href="https://www.linkedin.com/in/youssef-mahrous-644b78266" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-#### 💡 Languages & Frameworks
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
 </p>
 
 ---
@@ -72,14 +78,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmahrous0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefmahrous0&theme=gruvbox&row=1&column=7" />
 </p>
 
 ---
